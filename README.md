@@ -118,7 +118,7 @@ Neuro-Symbolic Agent (NeSA) is a neuro-symbolic approach to sequential decision 
 
 ---
 
-## Category to be determined
+## Advances in Neuro-Symbolic AI
 
 | No. | Repository | Main Contributors | Description |
 |:---|:---|:---|:---|
