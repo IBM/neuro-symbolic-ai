@@ -1,11 +1,13 @@
 # IBM Neuro-Symbolic AI Toolkit (NSTK)
 
-## Please visit here: [https://ibm.github.io/neuro-symbolic-ai-toolkit/](https://ibm.github.io/neuro-symbolic-ai-toolkit/)
-## Short URL: [https://ibm.biz/nstoolkit](https://ibm.biz/nstoolkit)
+### Please visit here: [https://ibm.github.io/neuro-symbolic-ai-toolkit/](https://ibm.github.io/neuro-symbolic-ai-toolkit/)
+### Short URL: [https://ibm.biz/nstoolkit](https://ibm.biz/nstoolkit)
 
 <hr>
 
-## The following contents are backup information
+<details><summary>Backup detail information</summary><div>
+
+# Neuro-Symbolic AI
 
 The Neuro-Symbolic AI (NS) initiative at IBM aims to conceive a fundamental new methodology for AI, to address the gaps remaining between today's state-of-the-art and the full goals of AI, including AGI.  In particular it is aimed at augmenting (and retaining) the strengths of statistical AI (machine learning) with the complementary capabilities of symbolic AI (knowledge and reasoning). It is aimed at a construction of new paradigms rather than superficial synthesis of existing paradigms, and revolution rather than evolution. The primary goals of NS are to demonstrate the capability to:
 
@@ -144,3 +146,5 @@ Neuro-Symbolic Agent (NeSA) is a neuro-symbolic approach to sequential decision 
 | 15 | [GraphSEIR_aPCE](https://github.com/Shashankaubaru/GraphSEIR_aPCE) | Shashanka Ubaru, Lior Horesh | Matlab code for Dynamic graph based epidemiological model for COVID-19 contact tracing data analysis and optimal testing prescription. JBI paper (https://www.sciencedirect.com/science/article/pii/S1532046421002306), IBM blog (https://research.ibm.com/blog/accelerating-covid-discoveries) |
 | 16 | [Neural Unification for Logic Reasoning over Language](https://github.com/IBM/Neural_Unification_for_Logic_Reasoning_over_Language) | Gabriele Picco, Hoang Thanh Lam, Marco Luca Sbodio, Vanessa Lopez Garcia | In this work we propose a transformer-based architecture, namely the Neural Unifier, and a relative training procedure, for deriving conjectures given axioms expressed in natural language (English). The method achieves state-of-the-art results in term of generalisation on the considered benchmark datasets, showing that mimicking a well-known inference procedure, the backward chaining, it is possible to answer deep queries even when the model is trained only on shallow ones. More information can be found in the full paper: https://aclanthology.org/2021.findings-emnlp.331.pdf |
 | 17 | [E-PDDL](https://github.com/FrancescoFabiano/E-PDDL) | Francisco Fabiano (University of Udine) | E-PDDL: A Standardized Way of Defining Epistemic Planning Problems, ICAPS 21 paper: https://arxiv.org/abs/2107.08739 |
+
+</div></details>
