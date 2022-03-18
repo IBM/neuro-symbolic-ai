@@ -1,6 +1,11 @@
 # IBM Neuro-Symbolic AI Toolkit (NSTK)
 
-URL: [https://ibm.biz/nstoolkit](https://ibm.biz/nstoolkit)
+## Please visit here: [https://ibm.github.io/neuro-symbolic-ai-toolkit/](https://ibm.github.io/neuro-symbolic-ai-toolkit/)
+## Short URL: [https://ibm.biz/nstoolkit](https://ibm.biz/nstoolkit)
+
+<hr>
+
+## The following contents are backup information
 
 The Neuro-Symbolic AI (NS) initiative at IBM aims to conceive a fundamental new methodology for AI, to address the gaps remaining between today's state-of-the-art and the full goals of AI, including AGI.  In particular it is aimed at augmenting (and retaining) the strengths of statistical AI (machine learning) with the complementary capabilities of symbolic AI (knowledge and reasoning). It is aimed at a construction of new paradigms rather than superficial synthesis of existing paradigms, and revolution rather than evolution. The primary goals of NS are to demonstrate the capability to:
 
