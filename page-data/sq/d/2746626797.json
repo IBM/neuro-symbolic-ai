@@ -1,1 +1,1 @@
-{"data":{"allNavItemsYaml":{"edges":[{"node":{"title":"Repos","pages":[{"title":null,"path":"/repos"}]}},{"node":{"title":"Blog","pages":[{"title":null,"path":"/blog"}]}}]},"site":{"pathPrefix":"/neuro-symbolic-ai-toolkit"}}}
+{"data":{"allNavItemsYaml":{"edges":[{"node":{"title":"Repos","pages":[{"title":null,"path":"/repos"}]}},{"node":{"title":"Blog","pages":[{"title":null,"path":"/blog"}]}},{"node":{"title":"Events","pages":[{"title":null,"path":"/events"}]}}]},"site":{"pathPrefix":"/neuro-symbolic-ai-toolkit"}}}
