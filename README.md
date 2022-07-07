@@ -1,6 +1,6 @@
 # IBM Neuro-Symbolic AI Toolkit (NSTK)
 
-### Please visit here: [https://ibm.github.io/neuro-symbolic-ai-toolkit/](https://ibm.github.io/neuro-symbolic-ai-toolkit/)
+### Please visit here: [https://ibm.github.io/neuro-symbolic-ai/](https://ibm.github.io/neuro-symbolic-ai/)
 ### Short URL: [https://ibm.biz/nstoolkit](https://ibm.biz/nstoolkit)
 
 <hr>
